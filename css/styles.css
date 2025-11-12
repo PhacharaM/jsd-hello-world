@@ -656,11 +656,11 @@ body {
 #participant-29 .participant-quote::before {
   content: "When I work nobody knows. When I smoke everybody knows."
 }
-
+f
 /* Next participant */
 #participant-30 {
 	background-color: white;
-}
+}f
 #participant-30 .profile-photo {
   background-image: url("../images/image.jpg");
 }
