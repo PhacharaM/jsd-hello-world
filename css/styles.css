@@ -642,10 +642,10 @@ body {
 
 /* Next participant */
 #participant-29 {
-	background-color: white;
+	background-color: rgb(210, 253, 135);
 }
 #participant-29 .profile-photo {
-	background-image: url("../images/participant-photo.png");
+	background-image: url("https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w2440/f_auto/primary/ml578pbgkvy13se6c3i2");
 }
 #participant-29 .participant-name::before {
   content: "29_Phachara(tle)";
